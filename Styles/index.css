@@ -1,0 +1,91 @@
+
+/* Fonts */
+
+@font-face {
+	src: url('../Fonts/digital-7.ttf');
+	font-family: digital;
+}
+@font-face {
+	src: url('../Fonts/Roboto-Medium.ttf');
+	font-family: Roboto;
+}
+
+/* General */
+
+button {
+	background: #fff;
+	color: #373535;
+	border: none;
+	border-radius: 3px;
+	border-bottom: 4px solid #e1e2e3;
+	font-size: 18px;
+	font-family: Roboto;
+	cursor: pointer;
+}
+
+body {
+	text-align: center;
+}
+
+.content {
+	margin: 0 auto;
+	margin-top: 80px;
+	padding-top: 30px;
+	width: 270px;
+	height: 340px;
+	background-color: #616268;
+	border-radius: 9px;
+	border-bottom: 8px solid #515359;
+}
+
+.content form input[name=results] {
+	width: 204px;
+	height: 35px;
+	margin-bottom: 10px;
+	border: none;
+	border-radius: 3px;
+	border-bottom: 4px solid #c3c8d4;
+	padding-left: 12px;
+	font-size: 22px;
+	font-family: digital;
+	background-color: #d0d6e1;
+}
+
+.content form .numbers {
+	width: 220px;
+	margin: 0 auto;
+}
+
+.content form .numbers button {
+	padding: 10px;
+	width: 40px;
+	margin-top: 5px;
+}
+
+.content form .operations {
+	padding-top: 5px;
+}
+
+.content form .operations button {
+	width: 51px;
+}
+
+.content form .remove {
+	padding-top: 5px;
+}
+
+.content form .remove button {
+	padding: 10px;
+	width: 106px;
+}
+
+.content form .calc {
+	padding-top: 5px;
+}
+
+.content form .calc button {
+	padding: 10px;
+	width: 216px;
+	background-color: #f89734;
+	border-bottom: 4px solid #de8339;
+}
