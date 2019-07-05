@@ -5,7 +5,7 @@
 
 Calculator made up using pure HTML, CSS, JavaScript.
 It is great to call it inside your website for the users to do simple calculations.
-Ex: Calling it inside GPA Calculators to give the student the ability of performing side calculations.
+Ex: Calling it inside GPA Calculators to give the student the ability to perform side calculations.
 
 ## Mechanism
 
@@ -56,10 +56,3 @@ function calc(){
 ## Related:
 
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval
-
-## Author:
-
-Name: Mohammed Ayman
-Phone: +201090658284
-Email: Mae252002@gmail.com
-Linkedin: https://www.linkedin.com/in/muhammedayman25
